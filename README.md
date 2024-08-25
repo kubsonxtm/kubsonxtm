@@ -9,10 +9,9 @@
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; align-items: center;">
-    <a href="https://docs.microsoft.com/en-us/powershell/" target="blank">
-        <img src="https://img.icons8.com/?size=160&id=Ghrsao6izg8u&format=png" alt="PowerShell" style="width:40px; height:40px; margin-right:10px;"/>
+        <img src="https://img.icons8.com/?size=160&id=Ghrsao6izg8u&format=png" alt="PowerShell" style="width:40px; height:40px; margin-right:50px;"/>
+    &nbsp;
     </a>
-    <a href="https://en.wikipedia.org/wiki/Batch_file" target="blank">
         <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Batch_file_icon.png" alt="Batch" style="width:40px; height:40px;"/>
     </a>
 </div>
