@@ -14,7 +14,8 @@
     </a>
         <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Batch_file_icon.png" alt="Batch" style="width:40px; height:40px;"/>
     </a>
-        </a>
+    &nbsp;
+    </a>
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Fpng_logo_vector%2Fc.png&f=1&nofb=1&ipt=4d08d4f373f46d03be7288324c8f020a86c93ed037fd784647341a9b56c4fa7c&ipo=images" alt="C#" style="width:40px; height:40px;"/>
     </a>
 </div>
