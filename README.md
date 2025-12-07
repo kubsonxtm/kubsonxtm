@@ -23,14 +23,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubsonxtm&show_icons=true&theme=transparent&border_color=58A6FF&bg_color=151515&title_color=58A6FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubsonxtm&layout=compact&theme=transparent&bg_color=151515&title_color=58A6FF" width="48%" />
-</p>
-
----
-
 ### 🌱 What I Do
 - Automate repetitive Windows tasks
 - Optimize system performance & privacy
