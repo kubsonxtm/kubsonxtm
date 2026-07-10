@@ -18,7 +18,7 @@
   <img src="https://img.icons8.com/color/96/000000/powershell.png" alt="PowerShell" title="PowerShell" width="60" height="60" />
   <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Batch_file_icon.png" alt="Batch" title="Batch Script" width="60" height="60" style="margin: 0 40px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="60" height="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py" title="Python" width="60" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" alt="py" title="Python" width="60" height="60" />
 </div>
 
 ---
