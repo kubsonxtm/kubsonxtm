@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Currently Working On
-- **[Windows-Tweaks](https://github.com/kubsonxtm/Windows-Tweaks)**  
+- **[Windows-Tweaks-GUI](https://github.com/kubsonxtm/Windows-Tweaks-GUI)**  
   A collection of scripts designed to enhance privacy, boost performance, and optimize the Windows experience for users.
 
 ---
